@@ -1,5 +1,5 @@
 # 3Dsnake
-3D implementation of classic Snake game using OpenGL
+3D implementation of classic Snake game using OpenGL ** (WORK IN PROGRESS) **
 
 ## Build/Run Debug (currently works on linux - possibly mac)
 1. Clone this repository.
