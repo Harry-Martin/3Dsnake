@@ -1,0 +1,3 @@
+/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/3dsnake.dir
