@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/harry/dev/me/3dsnake/src/Shader.cpp" "/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/3dsnake.dir/src/Shader.cpp.o"
+  "/home/harry/dev/me/3dsnake/src/Window.cpp" "/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/3dsnake.dir/src/Window.cpp.o"
   "/home/harry/dev/me/3dsnake/src/main.cpp" "/home/harry/dev/me/3dsnake/cmake-build-debug/CMakeFiles/3dsnake.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

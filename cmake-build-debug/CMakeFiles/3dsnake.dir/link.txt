@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/3dsnake.dir/src/main.cpp.o  -o 3dsnake  /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 -lGLEW /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
+/usr/bin/c++  -g   CMakeFiles/3dsnake.dir/src/main.cpp.o CMakeFiles/3dsnake.dir/src/Window.cpp.o CMakeFiles/3dsnake.dir/src/Shader.cpp.o  -o 3dsnake  /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 -lGLEW /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 

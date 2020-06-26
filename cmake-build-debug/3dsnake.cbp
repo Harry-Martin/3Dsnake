@@ -86,6 +86,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/harry/dev/me/3dsnake/src/Shader.cpp">
+			<Option target="3dsnake"/>
+		</Unit>
+		<Unit filename="/home/harry/dev/me/3dsnake/src/Shader.h">
+			<Option target="3dsnake"/>
+		</Unit>
+		<Unit filename="/home/harry/dev/me/3dsnake/src/Window.cpp">
+			<Option target="3dsnake"/>
+		</Unit>
+		<Unit filename="/home/harry/dev/me/3dsnake/src/Window.h">
+			<Option target="3dsnake"/>
+		</Unit>
 		<Unit filename="/home/harry/dev/me/3dsnake/src/main.cpp">
 			<Option target="3dsnake"/>
 		</Unit>

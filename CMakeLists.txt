@@ -3,7 +3,7 @@ project(3dsnake)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(3dsnake src/main.cpp)
+add_executable(3dsnake src/main.cpp src/Window.cpp src/Window.h src/Shader.cpp src/Shader.h)
 
 find_package(glfw3 3.2 REQUIRED)
 find_package(OpenGL REQUIRED)
